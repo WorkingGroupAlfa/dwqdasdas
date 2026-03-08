@@ -1,12 +1,12 @@
 {
   "meta": {
     "siteTitle": "Karpan Climate Service",
-    "siteDescription": "Premium-Montage, Reinigung und Service fur Klimaanlagen, Heizung, Warmepumpen und MaR-Systeme.",
-    "homeTitle": "Klimasysteme mit prazisem Service",
+    "siteDescription": "Premium-Montage, Reinigung und Service für Klimaanlagen, Heizung, Wärmepumpen und MaR-Systeme.",
+    "homeTitle": "Klimasysteme mit präzisem Service",
     "servicesTitle": "Leistungen",
-    "aboutTitle": "Uber uns",
+    "aboutTitle": "Über uns",
     "contactTitle": "Kontakt und Anfrage",
-    "privacyTitle": "Datenschutzerkl?rung",
+    "privacyTitle": "Datenschutzerklärung",
     "cookieTitle": "Cookie-Richtlinie",
     "adminTitle": "Admin-Statistik"
   },
@@ -18,7 +18,7 @@
     "privacy": "Datenschutz",
     "cookies": "Cookies",
     "admin": "Statistik",
-    "menu": "Menu"
+    "menu": "Menü"
   },
   "cta": {
     "whatsapp": "WhatsApp",
@@ -29,205 +29,205 @@
     "viewServices": "Leistungen ansehen"
   },
   "home": {
-    "eyebrow": "Klimaservice fur Wohn- und Gewerbeobjekte",
+    "eyebrow": "Klimaservice für Wohn- und Gewerbeobjekte",
     "headline": "Moderner Klimaservice für Häuser, Büros und technische Räume.",
     "subheadline": "Installation, Reinigung und langfristiger Service für Klimaanlagen, Heizung, Wärmepumpen und MaR-Systeme.",
     "servicesTitle": "Kernleistungen",
-    "servicesText": "Klare Leistungsstruktur fur den slowakischen Markt und einfache Entscheidungen.",
-    "whyTitle": "Warum Kundinnen und Kunden Karpan Climate Service wahlen",
+    "servicesText": "Klare Leistungsstruktur für den slowakischen Markt und einfache Entscheidungen.",
+    "whyTitle": "Warum Kundinnen und Kunden Karpan Climate Service wählen",
     "whyItems": [
-      "Prazise Montage und saubere Ausfuhrung",
-      "Moderne Ausrustung und sorgfaltige Diagnostik",
-      "Schnelle digitale Kommunikation uber WhatsApp und E-Mail",
-      "Service mit Fokus auf Komfort, Effizienz und Zuverlassigkeit"
+      "Präzise Montage und saubere Ausführung",
+      "Moderne Ausrüstung und sorgfältige Diagnostik",
+      "Schnelle digitale Kommunikation über WhatsApp und E-Mail",
+      "Service mit Fokus auf Komfort, Effizienz und Zuverlässigkeit"
     ],
     "expertiseTitle": "Fachbereiche",
     "expertiseItems": [
       "Klimaanlagen",
       "Heizsysteme",
-      "Warmepumpen",
+      "Wärmepumpen",
       "MaR- und Regelungssysteme",
       "Wohnobjekte",
-      "Gewerbeflachen"
+      "Gewerbeflächen"
     ],
-    "processTitle": "So lauft die Zusammenarbeit ab",
+    "processTitle": "So läuft die Zusammenarbeit ab",
     "processItems": [
       {
         "title": "Anfrage",
         "text": "Sie senden eine kurze Anfrage mit Leistungsart, Wunschtermin und den wichtigsten Details."
       },
       {
-        "title": "Bestatigung",
-        "text": "Wir prufen die Anfrage und bestatigen Umfang, Termin und nachste Schritte."
+        "title": "Bestätigung",
+        "text": "Wir prüfen die Anfrage und bestätigen Umfang, Termin und nächste Schritte."
       },
       {
-        "title": "Ausfuhrung",
-        "text": "Montage, Reinigung oder Service erfolgen sorgfaltig und technisch prazise."
+        "title": "Ausführung",
+        "text": "Montage, Reinigung oder Service erfolgen sorgfältig und technisch präzise."
       },
       {
         "title": "Betreuung",
-        "text": "Auch nach dem Einsatz bleibt die Kommunikation klar fur Wartung und weitere Anforderungen."
+        "text": "Auch nach dem Einsatz bleibt die Kommunikation klar für Wartung und weitere Anforderungen."
       }
     ],
     "bookingTitle": "Serviceanfrage senden",
-    "bookingText": "Ein klares digitales Formular fur praktische Terminplanung ohne unnotige Reibung.",
+    "bookingText": "Ein klares digitales Formular für praktische Terminplanung ohne unnötige Reibung.",
     "aboutTitle": "Professionelle Klimasysteme mit modernem Service-Standard",
-    "aboutText": "Karpan Climate Service positioniert sich als technischer Partner fur Luftqualitat, Heizeffizienz und stabile Regelungssysteme. Das Website-Erlebnis folgt demselben Anspruch: Klarheit, Vertrauen und technische Souveranitat.",
+    "aboutText": "Karpan Climate Service positioniert sich als technischer Partner für Luftqualität, Heizeffizienz und stabile Regelungssysteme. Das Website-Erlebnis folgt demselben Anspruch: Klarheit, Vertrauen und technische Souveränität.",
     "heroBadge": "Klima / HVAC / MaR",
-    "heroDescription": "Konzipiert fur einen prazisen, ruhigen und technisch verlasslichen Eindruck ohne den visuellen Larm einer typischen Handwerkerseite.",
+    "heroDescription": "Konzipiert für einen präzisen, ruhigen und technisch verlässlichen Eindruck ohne den visuellen Lärm einer typischen Handwerkerseite.",
     "heroCoreFocusLabel": "Kernfokus",
-    "heroCoreFocusText": "Montage, Service, Heizung, Warmepumpen.",
+    "heroCoreFocusText": "Montage, Service, Heizung, Wärmepumpen.",
     "heroLeadPathLabel": "Kontaktweg",
     "heroLeadPathText": "WhatsApp, E-Mail und Anfrage - ohne Umwege."
   },
   "servicesPage": {
     "eyebrow": "Leistungsarchitektur",
-    "headline": "Klima-, Heiz- und Regelungssysteme mit praziser Ausfuhrung.",
-    "text": "Jede Leistungsseite ist auf Klarheit, Vertrauen und praxisnahe Entscheidung ausgelegt."
+    "headline": "Klima-, Heiz- und Regelungssysteme mit präziser Ausführung.",
+    "text": "Jede Leistungsseite ist auf Klarheit, Vertrauen und praxisnahe Entscheidungen ausgelegt."
   },
   "serviceCards": {
     "installation": {
       "title": "Klimaanlagen-Montage",
-      "excerpt": "Neue Split- und Multi-Split-Montage mit sauberer Ausf?hrung und verl?sslicher Inbetriebnahme."
+      "excerpt": "Neue Split- und Multi-Split-Montage mit sauberer Ausführung und verlässlicher Inbetriebnahme."
     },
     "cleaning": {
       "title": "Klimaanlagen-Reinigung",
-      "excerpt": "Tiefenreinigung mit Fokus auf Hygiene, Luftqualit?t und Systemleistung."
+      "excerpt": "Tiefenreinigung mit Fokus auf Hygiene, Luftqualität und Systemleistung."
     },
     "service": {
       "title": "Klimaanlagen-Service",
-      "excerpt": "Pr?ventive Wartung, Diagnostik und serviceorientierte Stabilisierung der Leistung."
+      "excerpt": "Präventive Wartung, Diagnostik und serviceorientierte Stabilisierung der Leistung."
     },
     "heating": {
       "title": "Heizsysteme",
-      "excerpt": "Komfortorientierte Heizl?sungen f?r Wohn-, B?ro- und Technikbereiche."
+      "excerpt": "Komfortorientierte Heizlösungen für Wohn-, Büro- und Technikbereiche."
     },
     "heatPumps": {
-      "title": "W?rmepumpen",
-      "excerpt": "Effiziente W?rmepumpenl?sungen mit modernem technischem Standard."
+      "title": "Wärmepumpen",
+      "excerpt": "Effiziente Wärmepumpenlösungen mit modernem technischem Standard."
     },
     "mar": {
       "title": "MaR- und Regelungssysteme",
-      "excerpt": "Messung, Regelung und intelligente Logik f?r zuverl?ssigen Betrieb."
+      "excerpt": "Messung, Regelung und intelligente Logik für zuverlässigen Betrieb."
     }
   },
   "servicePages": {
     "installation": {
       "title": "Klimaanlagen-Montage",
-      "intro": "Montage mit Fokus auf saubere Ausf?hrung, korrekte Dimensionierung und langfristig verl?sslichen Betrieb.",
+      "intro": "Montage mit Fokus auf saubere Ausführung, korrekte Dimensionierung und langfristig verlässlichen Betrieb.",
       "body": [
-        "Wir behandeln die Montage als Teil des Gesamtsystems im Geb?ude, nicht als schnellen Ein-Tages-Einsatz. Positionierung, Leitungsf?hrung und sauberes Finish beeinflussen Komfort, Lautst?rke und Zuverl?ssigkeit.",
-        "Die Seitenstruktur unterst?tzt Anfragen aus Wohn- und kleinen Gewerbeprojekten mit klaren Kontaktwegen ?ber WhatsApp, E-Mail und Anfrageformular."
+        "Wir behandeln die Montage als Teil des Gesamtsystems im Gebäude, nicht als schnellen Ein-Tages-Einsatz. Positionierung, Leitungsführung und sauberes Finish beeinflussen Komfort, Lautstärke und Zuverlässigkeit.",
+        "Die Seitenstruktur unterstützt Anfragen aus Wohn- und kleinen Gewerbeprojekten mit klaren Kontaktwegen über WhatsApp, E-Mail und Anfrageformular."
       ]
     },
     "cleaning": {
       "title": "Klimaanlagen-Reinigung",
-      "intro": "Regelm??ige Reinigung sch?tzt Luftqualit?t, Effizienz und den allgemeinen Zustand der Anlage.",
+      "intro": "Regelmäßige Reinigung schützt Luftqualität, Effizienz und den allgemeinen Zustand der Anlage.",
       "body": [
-        "Reinigung wird als verantwortliche Wartungsma?nahme vermittelt, nicht als beliebiger Zusatz. Sprache und Struktur bleiben ruhig, praktisch und hygieneorientiert.",
-        "Das Format passt zu Kundinnen und Kunden, die Vertrauen, saubere Arbeit und einfache Terminvereinbarung sch?tzen."
+        "Reinigung wird als verantwortliche Wartungsmaßnahme vermittelt, nicht als beliebiger Zusatz. Sprache und Struktur bleiben ruhig, praktisch und hygieneorientiert.",
+        "Das Format passt zu Kundinnen und Kunden, die Vertrauen, saubere Arbeit und einfache Terminvereinbarung schätzen."
       ]
     },
     "service": {
       "title": "Klimaanlagen-Service / Wartung",
-      "intro": "Pr?ventiver und korrigierender Service f?r stabile, effiziente und verl?ssliche Systeme.",
+      "intro": "Präventiver und korrigierender Service für stabile, effiziente und verlässliche Systeme.",
       "body": [
-        "Die Service-Seite verbindet technische Klarheit mit conversion-orientierter UX und schafft Sicherheit f?r private wie kleine gewerbliche Kunden.",
+        "Die Service-Seite verbindet technische Klarheit mit conversion-orientierter UX und schafft Sicherheit für private wie kleine gewerbliche Kundschaft.",
         "Diagnostik, saisonale Kontrollen und laufende Wartung werden in einem professionellen, kontrollierten Ton kommuniziert."
       ]
     },
     "heating": {
       "title": "Heizsysteme",
-      "intro": "Heizungsunterst?tzung mit Fokus auf Komfort, Stabilit?t und praktische Effizienz.",
+      "intro": "Heizungsunterstützung mit Fokus auf Komfort, Stabilität und praktische Effizienz.",
       "body": [
-        "Im Bereich Heizung positioniert sich das Unternehmen als moderner Servicepartner f?r klassische und aktualisierte Systeme.",
-        "Die visuelle Sprache bleibt zur?ckhaltend und hochwertig und unterst?tzt das notwendige Vertrauen bei technischen Entscheidungen."
+        "Im Bereich Heizung positioniert sich das Unternehmen als moderner Servicepartner für klassische und aktualisierte Systeme.",
+        "Die visuelle Sprache bleibt zurückhaltend und hochwertig und unterstützt das notwendige Vertrauen bei technischen Entscheidungen."
       ]
     },
     "heatPumps": {
-      "title": "W?rmepumpen",
-      "intro": "Effiziente W?rmepumpenl?sungen mit klarem Fokus auf Komfort, Leistung und modernen Betrieb.",
+      "title": "Wärmepumpen",
+      "intro": "Effiziente Wärmepumpenlösungen mit klarem Fokus auf Komfort, Leistung und modernen Betrieb.",
       "body": [
-        "W?rmepumpen erfordern eine ruhige, fundierte Erkl?rung. Deshalb liegt der Schwerpunkt auf korrekter Planung, Wartbarkeit und verl?sslicher Nutzung.",
+        "Wärmepumpen erfordern eine ruhige, fundierte Erklärung. Deshalb liegt der Schwerpunkt auf korrekter Planung, Wartbarkeit und verlässlicher Nutzung.",
         "Diese Positionierung spricht qualifizierte Anfragen an, die auf Premium-Service und technische Sorgfalt Wert legen."
       ]
     },
     "mar": {
       "title": "MaR- und Regelungssysteme",
-      "intro": "Mess- und Regelungssysteme f?r mehr Transparenz, Kontrolle und stabile Betriebsprozesse.",
+      "intro": "Mess- und Regelungssysteme für mehr Transparenz, Kontrolle und stabile Betriebsprozesse.",
       "body": [
-        "Die MaR-Seite erweitert den Auftritt von klassischem HVAC-Service hin zu einer technisch glaubw?rdigen Ingenieur-Dienstleistungsmarke.",
-        "Die Sprache bleibt zug?nglich und zugleich pr?zise, professionell und fachlich korrekt."
+        "Die MaR-Seite erweitert den Auftritt von klassischem HVAC-Service hin zu einer technisch glaubwürdigen Ingenieur-Dienstleistungsmarke.",
+        "Die Sprache bleibt zugänglich und zugleich präzise, professionell und fachlich korrekt."
       ]
     }
   },
   "about": {
-    "eyebrow": "?ber das Unternehmen",
-    "headline": "Pr?ziser technischer Serviceansatz f?r moderne Klimasysteme.",
+    "eyebrow": "Über das Unternehmen",
+    "headline": "Präziser technischer Serviceansatz für moderne Klimasysteme.",
     "body": [
-      "Karpan Climate Service ist als lokale Premium-Service-Marke f?r Kundinnen und Kunden konzipiert, die technische Korrektheit, saubere Ausf?hrung und klare Kommunikation erwarten.",
-      "Das Leistungsspektrum umfasst Montage, Reinigung, Wartung, Heizung, W?rmepumpen und MaR-Unterst?tzung mit einem digitalen Kontaktprozess, der die Zeit der Kundschaft respektiert."
+      "Karpan Climate Service ist als lokale Premium-Service-Marke für Kundinnen und Kunden konzipiert, die technische Korrektheit, saubere Ausführung und klare Kommunikation erwarten.",
+      "Das Leistungsspektrum umfasst Montage, Reinigung, Wartung, Heizung, Wärmepumpen und MaR-Unterstützung mit einem digitalen Kontaktprozess, der die Zeit der Kundschaft respektiert."
     ]
   },
   "contact": {
     "eyebrow": "Anfrage und Kontakt",
-    "headline": "Send a service request",
-    "text": "W?hlen Sie Leistungsart, Wunschtermin und bevorzugten Kontaktkanal. Wir melden uns mit klaren n?chsten Schritten zur?ck.",
-    "directTitle": "Direct contact",
-    "legal": "Detaillierte Firmendaten k?nnen sp?ter in der Konfiguration und auf den Rechtsseiten erg?nzt werden.",
+    "headline": "Serviceanfrage senden",
+    "text": "Wählen Sie Leistungsart, Wunschtermin und bevorzugten Kontaktkanal. Wir melden uns mit klaren nächsten Schritten zurück.",
+    "directTitle": "Direkter Kontakt",
+    "legal": "Detaillierte Firmendaten können später in der Konfiguration und auf den Rechtsseiten ergänzt werden.",
     "whatsappLabel": "WhatsApp"
   },
   "form": {
     "name": "Name",
-    "email": "Email",
-    "phone": "WhatsApp / Phone",
-    "service": "Service type",
-    "date": "Preferred date",
-    "time": "Preferred time",
-    "message": "Message",
+    "email": "E-Mail",
+    "phone": "WhatsApp / Telefon",
+    "service": "Leistungsart",
+    "date": "Wunschtermin (Datum)",
+    "time": "Wunschtermin (Uhrzeit)",
+    "message": "Nachricht",
     "success": "Ihre Anfrage wurde erfolgreich gesendet.",
     "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
-    "honeypot": "Leave this field empty",
-    "placeholderMessage": "Beschreiben Sie Raum, Systemtyp oder wobei Sie Unterst?tzung ben?tigen.",
-    "selectPlaceholder": "Select service"
+    "honeypot": "Dieses Feld leer lassen",
+    "placeholderMessage": "Beschreiben Sie den Raum, den Systemtyp oder wobei Sie Unterstützung benötigen.",
+    "selectPlaceholder": "Leistung auswählen"
   },
   "consent": {
-    "title": "Analytics only with consent",
+    "title": "Analyse nur mit Einwilligung",
     "text": "Wir nutzen datenschutzfreundliche First-Party-Analyse, um Besuche und Klicks zu verstehen. Analyse wird erst nach Ihrer Zustimmung aktiviert.",
-    "accept": "Accept analytics",
-    "decline": "Continue without analytics",
-    "manage": "Manage cookies"
+    "accept": "Analyse akzeptieren",
+    "decline": "Ohne Analyse fortfahren",
+    "manage": "Cookies verwalten"
   },
   "legal": {
     "privacyIntro": "Diese Website verarbeitet nur Daten, die zur Beantwortung von Serviceanfragen erforderlich sind und bei Einwilligung datenschutzfreundliche Analysedaten zur Verbesserung des Webauftritts.",
-    "cookieIntro": "Diese Website verwendet notwendige Cookies f?r Grundfunktionen sowie optionalen Analyse-Speicher erst nach Einwilligung.",
-    "cookieEssential": "Essenzieller Speicher wird nur fuer Sprachrouting und Cookie-Status verwendet. Optionale Analyse ist deaktiviert, bis der Nutzer aktiv zustimmt.",
-    "cookieAnalytics": "Die Analyse in diesem Projekt ist First-Party und auf aggregierte Nutzung ausgerichtet: Besuche, Seitenaufrufe, CTA-Klicks, Sprachen, Quellen und Geraetetyp.",
-    "cookieChoice": "Nutzer koennen optionale Analyse ablehnen und die Website ohne Einschraenkung der Kernfunktionen weiter nutzen.",
+    "cookieIntro": "Diese Website verwendet notwendige Cookies für Grundfunktionen sowie optionalen Analyse-Speicher erst nach Einwilligung.",
+    "cookieEssential": "Essenzieller Speicher wird nur für Sprachrouting und Cookie-Status verwendet. Optionale Analyse ist deaktiviert, bis der Nutzer aktiv zustimmt.",
+    "cookieAnalytics": "Die Analyse in diesem Projekt ist First-Party und auf aggregierte Nutzung ausgerichtet: Besuche, Seitenaufrufe, CTA-Klicks, Sprachen, Quellen und Gerätetyp.",
+    "cookieChoice": "Nutzer können optionale Analyse ablehnen und die Website ohne Einschränkung der Kernfunktionen weiter nutzen.",
     "privacyController": "Verantwortlicher",
     "privacyContact": "Kontakt",
-    "privacyBooking": "Wir verarbeiten Daten aus Serviceanfragen, um Rueckmeldungen und gewuenschte Leistungen zu organisieren. Daten werden nur so lange gespeichert, wie es fuer Nachverfolgung und rechtliche Pflichten erforderlich ist.",
-    "privacyAnalytics": "Bei erteilter Einwilligung verarbeiten wir datenschutzfreundliche Analyseinformationen wie Seitenbesuche, Klicks, Sprachen und Geraetekategorien. Werbeprofiling ist in diesem Projekt standardmaessig nicht aktiviert.",
-    "privacyRights": "Nutzer koennen nach geltendem EU- und slowakischem Recht Auskunft, Berichtigung oder Loeschung personenbezogener Daten verlangen."
+    "privacyBooking": "Wir verarbeiten Daten aus Serviceanfragen, um Rückmeldungen und gewünschte Leistungen zu organisieren. Daten werden nur so lange gespeichert, wie es für Nachverfolgung und rechtliche Pflichten erforderlich ist.",
+    "privacyAnalytics": "Bei erteilter Einwilligung verarbeiten wir datenschutzfreundliche Analyseinformationen wie Seitenbesuche, Klicks, Sprachen und Gerätekategorien. Werbeprofiling ist in diesem Projekt standardmäßig nicht aktiviert.",
+    "privacyRights": "Nutzer können nach geltendem EU- und slowakischem Recht Auskunft, Berichtigung oder Löschung personenbezogener Daten verlangen."
   },
   "footer": {
-    "tagline": "Montage, Reinigung und Service von Klimasystemen mit prazisem modernem Standard.",
+    "tagline": "Montage, Reinigung und Service von Klimasystemen mit präzisem modernem Standard.",
     "rights": "Alle Rechte vorbehalten.",
     "contactTitle": "Kontakt",
     "legalTitle": "Rechtliches"
   },
   "stats": {
-    "headline": "Website statistics",
-    "visits": "Visits",
-    "pageViews": "Page views",
-    "uniqueVisitors": "Unique visitors",
-    "formSubmissions": "Form submissions",
-    "trafficSources": "Traffic sources",
-    "popularPages": "Popular pages",
-    "languages": "Language usage",
-    "devices": "Device breakdown",
-    "ctaClicks": "CTA clicks",
-    "bookings": "Recent booking requests",
+    "headline": "Website-Statistiken",
+    "visits": "Besuche",
+    "pageViews": "Seitenaufrufe",
+    "uniqueVisitors": "Eindeutige Besucher",
+    "formSubmissions": "Gesendete Formulare",
+    "trafficSources": "Traffic-Quellen",
+    "popularPages": "Beliebte Seiten",
+    "languages": "Sprachnutzung",
+    "devices": "Geräteverteilung",
+    "ctaClicks": "CTA-Klicks",
+    "bookings": "Aktuelle Serviceanfragen",
     "tableName": "Name",
     "tableEmail": "E-Mail",
     "tableService": "Leistung",
