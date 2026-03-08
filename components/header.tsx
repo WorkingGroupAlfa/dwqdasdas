@@ -21,12 +21,12 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
   ];
 
   return (
-    <header className="sticky top-0 z-50 border-b border-white/50 bg-bg/80 backdrop-blur-xl">
+    <header className="sticky top-0 z-50 border-b border-white/70 bg-bg/92 backdrop-blur-xl">
       <div className="section flex h-20 items-center justify-between gap-4">
         <Logo locale={locale} />
         <nav className="hidden items-center gap-6 lg:flex">
           {items.map((item) => (
-            <a key={item.href} href={item.href} className="text-sm text-muted transition hover:text-graphite">
+            <a key={item.href} href={item.href} className="text-sm text-graphite/80 transition hover:text-graphite">
               {item.label}
             </a>
           ))}

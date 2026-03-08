@@ -3,9 +3,9 @@ import Link from 'next/link';
 
 export function Logo({ locale }: { locale: string }) {
   return (
-    <Link href={`/${locale}`} className="flex items-center gap-3 rounded-full border border-white/60 bg-white/80 px-3 py-2 shadow-soft backdrop-blur">
-      <div className="relative h-9 w-[132px] sm:h-10 sm:w-[150px]">
-        <Image src="/logo-karpan.png" alt="Karpan Climate Service" fill className="object-contain object-left" priority />
+    <Link href={`/${locale}`} className="inline-flex items-center justify-center rounded-full border border-white/70 bg-white/92 p-2.5 shadow-soft backdrop-blur">
+      <div className="relative h-10 w-10 sm:h-12 sm:w-12">
+        <Image src="/logo-karpan.png" alt="Karpan Climate Service" fill className="object-contain" priority />
       </div>
     </Link>
   );

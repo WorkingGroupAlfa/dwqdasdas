@@ -3,7 +3,7 @@ import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { BookingForm } from '@/components/booking-form';
 import { getDictionary } from '@/lib/translations';
-import { isLocale, type Locale } from '@/lib/i18n';
+import { isLocale, locales, type Locale } from '@/lib/i18n';
 import { services } from '@/lib/site';
 import { siteConfig } from '@/lib/config';
 
@@ -17,7 +17,7 @@ const map = {
 } as const;
 
 export function generateStaticParams() {
-  return ['sk', 'ua', 'de', 'sl', 'en'].flatMap((locale) => services.map((service) => ({ locale, slug: service.slug })));
+  return locales.flatMap((locale) => services.map((service) => ({ locale, slug: service.slug })));
 }
 
 export default async function ServicePage({ params }: { params: Promise<{ locale: string; slug: string }> }) {
