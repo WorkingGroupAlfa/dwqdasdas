@@ -5,10 +5,7 @@
 :root {
   color-scheme: light;
   --site-bg-image: url('/backgrounds/alpine-hvac.jpg');
-  --site-bg-fallback:
-    radial-gradient(circle at top right, rgba(31, 123, 255, 0.2), transparent 34%),
-    radial-gradient(circle at left top, rgba(248, 127, 34, 0.16), transparent 26%),
-    linear-gradient(160deg, #d4e1f3 0%, #c1d5ec 32%, #cbdced 62%, #e2ecf9 100%);
+  --site-bg-fallback: linear-gradient(165deg, #d4e1f3 0%, #c1d5ec 34%, #cbdced 64%, #e2ecf9 100%);
 }
 
 html {
@@ -17,64 +14,26 @@ html {
 
 body {
   @apply text-graphite antialiased;
-  background: transparent;
+  background-color: #d4e1f3;
+  background-image:
+    linear-gradient(180deg, rgba(226, 236, 248, 0.86) 0%, rgba(233, 241, 251, 0.9) 46%, rgba(239, 245, 252, 0.94) 100%),
+    var(--site-bg-image),
+    var(--site-bg-fallback);
+  background-size: auto, cover, cover;
+  background-position: center, center top, center;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  background-attachment: scroll, scroll, scroll;
 }
 
 .site-shell {
   position: relative;
   min-height: 100vh;
-  isolation: isolate;
-}
-
-.site-shell::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: -3;
-  pointer-events: none;
-  background-image: var(--site-bg-image), var(--site-bg-fallback);
-  background-size: cover, cover;
-  background-repeat: no-repeat;
-  background-position: center center, center center;
-  transform: scale(1.12);
-  transform-origin: center center;
-  animation: bg-pan-zoom 34s ease-in-out infinite alternate;
-  will-change: transform;
-}
-
-.site-shell::after {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: -2;
-  pointer-events: none;
-  background:
-    radial-gradient(62% 58% at 15% 20%, rgba(245, 249, 255, 0.24), transparent 74%),
-    radial-gradient(64% 56% at 90% 10%, rgba(116, 150, 220, 0.22), transparent 64%),
-    linear-gradient(180deg, rgba(220, 231, 247, 0.72) 0%, rgba(227, 236, 248, 0.76) 44%, rgba(236, 243, 252, 0.84) 100%);
-  backdrop-filter: saturate(1.03) blur(1.2px);
-  animation: bg-breathe 11s ease-in-out infinite;
-}
-
-.site-shell > * {
-  position: relative;
-  z-index: 1;
-}
-
-.site-shell main::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  pointer-events: none;
-  background:
-    linear-gradient(180deg, rgba(8, 18, 34, 0.14) 0%, rgba(8, 18, 34, 0.08) 18%, rgba(8, 18, 34, 0.05) 45%, rgba(8, 18, 34, 0.09) 100%),
-    radial-gradient(80% 58% at 50% 35%, rgba(255, 255, 255, 0.08), transparent 72%);
 }
 
 main {
   position: relative;
   z-index: 1;
+  padding-bottom: 6.5rem;
 }
 
 ::selection {
@@ -116,45 +75,8 @@ main {
   color: rgba(39, 51, 72, 0.78) !important;
 }
 
-@keyframes bg-pan-zoom {
-  0% {
-    transform: scale(1.09);
-    filter: saturate(1) contrast(1);
-  }
-  50% {
-    transform: translate3d(-1.2%, -1.1%, 0) scale(1.11);
-    filter: saturate(1.06) contrast(1.02);
-  }
-  100% {
-    transform: translate3d(1%, 1.6%, 0) scale(1.13);
-    filter: saturate(1.04) contrast(1.03);
-  }
-}
-
-@keyframes bg-breathe {
-  0%,
-  100% {
-    opacity: 0.74;
-  }
-  50% {
-    opacity: 0.9;
-  }
-}
-
 @media (max-width: 768px) {
-  .site-shell::before {
-    animation-duration: 44s;
-    transform: scale(1.08);
-  }
-
-  .site-shell main::before {
-    background: linear-gradient(180deg, rgba(8, 18, 34, 0.18) 0%, rgba(8, 18, 34, 0.12) 100%);
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .site-shell::before,
-  .site-shell::after {
-    animation: none;
+  main {
+    padding-bottom: 7rem;
   }
 }

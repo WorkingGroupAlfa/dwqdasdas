@@ -12,7 +12,7 @@ export function MobileStickyBar({ locale, dict }: { locale: string; dict: Dictio
   ];
 
   return (
-    <div className="fixed inset-x-0 z-[70] px-4 pb-[max(0.25rem,env(safe-area-inset-bottom))] lg:hidden" style={{ bottom: '0.5rem' }}>
+    <div className="fixed inset-x-0 bottom-0 z-[70] px-4 pb-[max(0.5rem,env(safe-area-inset-bottom))] lg:hidden">
       <div className="mx-auto grid max-w-md grid-cols-3 gap-2 rounded-[24px] border border-white/80 bg-white/92 p-2 shadow-soft backdrop-blur-xl">
         {items.map((item, index) => {
           const Icon = item.icon;
