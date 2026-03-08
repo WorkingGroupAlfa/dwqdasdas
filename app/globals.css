@@ -16,11 +16,11 @@ body {
   @apply text-graphite antialiased;
   background-color: #d4e1f3;
   background-image:
-    linear-gradient(180deg, rgba(226, 236, 248, 0.86) 0%, rgba(233, 241, 251, 0.9) 46%, rgba(239, 245, 252, 0.94) 100%),
+    linear-gradient(180deg, rgba(224, 235, 248, 0.66) 0%, rgba(231, 240, 251, 0.72) 46%, rgba(238, 245, 252, 0.8) 100%),
     var(--site-bg-image),
     var(--site-bg-fallback);
   background-size: auto, cover, cover;
-  background-position: center, center top, center;
+  background-position: center, center 18%, center;
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-attachment: scroll, scroll, scroll;
 }
@@ -75,8 +75,53 @@ main {
   color: rgba(39, 51, 72, 0.78) !important;
 }
 
+@media (min-width: 1024px) {
+  body {
+    background-image:
+      linear-gradient(180deg, rgba(220, 232, 247, 0.54) 0%, rgba(230, 240, 251, 0.62) 48%, rgba(238, 245, 252, 0.72) 100%),
+      var(--site-bg-image),
+      var(--site-bg-fallback);
+    background-position: center, center 22%, center;
+  }
+
+  .site-shell::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background:
+      radial-gradient(56% 42% at 12% 18%, rgba(255, 255, 255, 0.22), transparent 72%),
+      radial-gradient(48% 38% at 88% 12%, rgba(116, 161, 240, 0.2), transparent 68%),
+      radial-gradient(62% 48% at 50% 82%, rgba(248, 127, 34, 0.12), transparent 78%);
+    animation: bg-ambient-drift 26s ease-in-out infinite alternate;
+    will-change: transform, opacity;
+  }
+}
+
 @media (max-width: 768px) {
   main {
     padding-bottom: 7rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-shell::before {
+    animation: none;
+  }
+}
+
+@keyframes bg-ambient-drift {
+  0% {
+    transform: translate3d(0, 0, 0);
+    opacity: 0.76;
+  }
+  50% {
+    transform: translate3d(-0.8%, -0.6%, 0);
+    opacity: 0.9;
+  }
+  100% {
+    transform: translate3d(0.9%, 0.8%, 0);
+    opacity: 0.78;
   }
 }
